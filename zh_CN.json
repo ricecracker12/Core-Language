@@ -114,6 +114,7 @@
   "api_db_account_email_none": "为什么不填电子邮件呢?",
   "api_db_account_failed0": "数据库连接失败,请重试 (0)",
   "api_db_account_failed1": "数据库连接失败,请重试 (1)",
+  "api_db_account_failed_generate_uid": "生成唯一UID失败，请稍后重试",
   "api_db_account_invalid_ip_list": "IP列表无效。",
   "api_db_account_iplock": "该帐户已被某个 IP 地址锁定，请按照 https://ps.yuuki.me/blog/documentation/login 中的说明进行操作(EAN)",
   "api_db_account_link_faild": "添加第三方登录方式：失败",

@@ -114,6 +114,7 @@
   "api_db_account_email_none": "why email is empty?",
   "api_db_account_failed0": "Database failed to connect, try again (0)",
   "api_db_account_failed1": "Database failed to connect, try again (1)",
+  "api_db_account_failed_generate_uid": "Failed to generate unique UID after multiple attempts, please try again later",
   "api_db_account_invalid_ip_list": "Ip list invaild.",
   "api_db_account_iplock": "This account is locked with a certain ip address, Follow instructions at https://ps.yuuki.me/blog/documentation/login",
   "api_db_account_link_faild": "Failed, added third party login",
